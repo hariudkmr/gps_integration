@@ -1,0 +1,6 @@
+.browser/
+.metadata/
+*.o
+*.d
+*.mk
+outgoing/
